@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+td{
+    border: 1px solid black;
+    margin: 0px;
+}
+
+p{
+    margin: 0px;
+}
+.table,td,th{
+    border: solid 1px black;
+}
